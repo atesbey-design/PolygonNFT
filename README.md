@@ -39,12 +39,4 @@ Server will start running on localhost:8080
 - Remix : https://remix.ethereum.org
 
 ---
-#### CodeXpert links :
-
-- Website : https://thecodexpert.org
-- Discord : https://discord.gg/t36kuCt
-- Youtube : https://www.youtube.com/channel/UCb3Rrg2t4PZ59Sna497DUZA?view_as=subscriber
-- Twitter : https://twitter.com/ThisIsCodeXpert
-- Telegram : https://t.me/CodeXpertTelegram
-
 
