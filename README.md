@@ -1,4 +1,4 @@
-# Polygon-NFT-DApp-Tutorial-Series
+# Polygon-NFT-DApp
 
 [![License: MIT](https://img.shields.io/npm/l/express?color=orange)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/475163926187999242?logo=discord)](https://discord.gg/t36kuCt)
